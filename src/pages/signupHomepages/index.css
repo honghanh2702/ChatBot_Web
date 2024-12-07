@@ -1,0 +1,14 @@
+.background-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    overflow: hidden;
+    background: radial-gradient(circle at bottom right, rgba(70, 15, 158, 0.8), black 50%);
+}
+
